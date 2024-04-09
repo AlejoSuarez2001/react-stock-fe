@@ -1,0 +1,42 @@
+.table {
+  color: rgb(255, 255, 255);
+}
+
+.table td {
+  vertical-align: middle;
+}
+
+.tableItem {
+  text-align: center;
+  border: none;
+  font-size: 13px;
+  height: 100px;
+}
+
+.itemCompanyName {
+  text-align: start;
+}
+
+.tableRow {
+  border-bottom: 1px #323546 solid;
+  cursor: pointer;
+}
+.tableRow:hover {
+  background-color: #151d2d;
+}
+
+.tableHeader {
+  border-bottom: 1px #323546 solid;
+  font-size: 16px;
+}
+
+.tableHeader th {
+  padding-bottom: 20px;
+}
+
+.AlaBaja {
+  color: #ea3943;
+}
+.alAlza {
+  color: #16c784;
+}

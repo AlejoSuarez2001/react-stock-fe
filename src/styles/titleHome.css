@@ -1,0 +1,9 @@
+.titleHomeContainer {
+  margin: 40px 0px 60px 0px;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 25px;
+  display: inline;
+}

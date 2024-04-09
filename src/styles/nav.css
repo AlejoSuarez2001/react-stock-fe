@@ -1,0 +1,43 @@
+ul,
+li,
+a,
+a:hover {
+  list-style: none;
+  text-decoration: none;
+  color: white;
+  margin: 0;
+}
+
+.navbar {
+  border-bottom: 1px #323546 solid;
+  border-top: 1px #323546 solid;
+}
+
+.logoContainer {
+  border-right: solid 1px #323546;
+}
+
+.logo {
+  font-size: 27px;
+  font-weight: bold;
+}
+
+.logoIcon {
+  margin-left: 1%;
+  color: rgb(29, 250, 114);
+  min-width: 50px;
+}
+
+.nav_item {
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-weight: bold;
+}
+.nav_item:hover {
+  color: #6188ff;
+}
+
+.search {
+  font-size: 20px;
+  font-weight: bold;
+}

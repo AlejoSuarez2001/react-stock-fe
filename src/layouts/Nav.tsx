@@ -1,6 +1,7 @@
 import "../styles/nav.css";
 import { Outlet, Link } from "react-router-dom";
 import { RiStockLine } from "react-icons/ri";
+import React from "react";
 
 export default function Nav() {
   return (

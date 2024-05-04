@@ -1,12 +1,9 @@
-import Home from "./pages/Home.jsx";
-import StockDetail from "./pages/StockDetail.jsx";
-import WatchList from "./pages/WatchList.jsx";
+import React from "react";
+import Home from "./pages/Home";
+import StockDetail from "./pages/StockDetail";
+import WatchList from "./pages/WatchList";
 
-import {
-  BrowserRouter as Router,
-  Routes,
-  Route,
-} from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
   return (

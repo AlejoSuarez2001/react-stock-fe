@@ -1,7 +1,8 @@
-import "../styles/dashboard.css";
 import Footer from "../layouts/Footer";
 import Nav from "../layouts/Nav";
 import ViewWidgetBar from "../layouts/ViewWidgetBar";
+import React from "react";
+import "../styles/dashboard.css";
 
 export default function WatchList() {
   return (

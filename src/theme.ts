@@ -1,0 +1,1 @@
+    export const responsive = "(min-width:800px)";

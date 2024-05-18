@@ -4,7 +4,7 @@ import axios from "axios";
 import { useNavigate } from "react-router-dom";
 import LineChart from "./LineChart";
 
-export default function StockTableData({ stock }) {
+export default function TableRow({ stock }) {
   const apiKey = process.env.REACT_APP_API_KEY;
   const [stockHistory, setStockHistory] = useState([]);
   const [stockPriceHistory, setStockPriceHistory] = useState([]);
